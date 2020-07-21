@@ -16,8 +16,8 @@ import (
 var logger = gulu.Log.NewLogger(os.Stdout)
 
 const (
-	githubUserName = "88250"
-	hacpaiUserName = "88250"
+	githubUserName = "xhaoxiong"
+	hacpaiUserName = "xhaoxiong"
 )
 
 func main() {
